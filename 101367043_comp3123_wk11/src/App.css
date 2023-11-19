@@ -1,0 +1,7 @@
+.App-title{
+  background-color: rgb(63, 165, 81);
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
